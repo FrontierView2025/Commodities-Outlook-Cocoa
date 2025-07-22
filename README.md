@@ -1,6 +1,6 @@
 <style>
 .site-title {
-  font-size: 2.5em !important;
+  font-size: 4.5em !important;
 }
 </style>
 

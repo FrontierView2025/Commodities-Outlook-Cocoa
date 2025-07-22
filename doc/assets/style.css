@@ -26,3 +26,12 @@ header p:nth-of-type(1) {
      width: 100vw !important;
      margin: 0 !important; */
 }
+
+section {
+  float: none !important;
+  margin: 0 auto !important;
+  max-width: 900px !important;  /* or any width you like */
+  width: 80vw !important;
+  padding: 0 2vw;
+  display: block !important;
+}

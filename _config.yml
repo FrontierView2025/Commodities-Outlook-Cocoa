@@ -1,6 +1,4 @@
-title: Commodities-Outlook-Cocoa
+title: Commodities Outlook Cocoa
 description: The new FV data tool explores the global cocoa market
+#show_downloads:true
 theme: jekyll-theme-minimal
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://FrontierView2025.github.io" # the base hostname & protocol for your site
-author: FrontierView2025

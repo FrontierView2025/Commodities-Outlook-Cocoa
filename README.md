@@ -1,6 +1,7 @@
 <style>
-.site-title {
+h1, .site-title, .header-title, header a {
   font-size: 4.5em !important;
+  color: red !important;
 }
 </style>
 

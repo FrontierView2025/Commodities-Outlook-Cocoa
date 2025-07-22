@@ -3,6 +3,6 @@ header h1 a {
   font-size: 1.8em !important;
 }
 
-header p {
+header p:nth-of-type(1) {
   font-size: 1.8em !important;
 }

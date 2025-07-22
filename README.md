@@ -1,4 +1,8 @@
-<link rel="stylesheet" href="doc/assets/style.css">
+<style>
+.site-title {
+  font-size: 2.5em !important;
+}
+</style>
 
 # Cocoa Data Unlocked
 Explore historical price trends, inventory shifts, and futures market signals to understand where the cocoa market stands today.

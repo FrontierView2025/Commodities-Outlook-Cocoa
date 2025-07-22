@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="assets/style.css">
+
 # Cocoa Data Unlocked
 Explore historical price trends, inventory shifts, and futures market signals to understand where the cocoa market stands today.
 

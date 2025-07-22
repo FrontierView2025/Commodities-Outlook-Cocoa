@@ -3,12 +3,26 @@ header h1 a {
   font-size: 1.8em !important;
 }
 
+/* Make the descriptio of the site larger */
 header p:nth-of-type(1) {
   font-size: 1.8em !important;
 }
 
+/* Make the paragraphs of the read.me larger */
 .section-desc {
   font-size: 1.2em;
   line-height: 1.2;
   margin-bottom: 1.2em;
+}
+
+/*Adjust margins */
+.wrapper {
+  max-width: 98vw !important;   /* Nearly full viewport width */
+  width: 98vw !important;
+  margin-left: 1vw !important;
+  margin-right: 1vw !important;
+  /* Or for truly full width, use 100vw and 0 for margins */
+  /* max-width: 100vw !important;
+     width: 100vw !important;
+     margin: 0 !important; */
 }

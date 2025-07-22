@@ -1,10 +1,3 @@
-<style>
-h1, .site-title, .header-title, header a {
-  font-size: 4.5em !important;
-  color: red !important;
-}
-</style>
-
 # Cocoa Data Unlocked
 Explore historical price trends, inventory shifts, and futures market signals to understand where the cocoa market stands today.
 

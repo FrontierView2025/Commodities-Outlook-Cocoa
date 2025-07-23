@@ -11,7 +11,8 @@ header p:nth-of-type(1) {
 /* Make the titles and paragraphs of the read.me larger */
 
 .section-title {
-  font-size: 1.5em !important;
+  font-size: 1.4em !important;
+  color: #3498db;               /* Example: make it blue */
   font-weight: bold;
   line-height: 1.3;
   margin-bottom: 1.3em;
@@ -20,12 +21,14 @@ header p:nth-of-type(1) {
 .section-subtitle {
   font-size: 1.3em !important;
   font-weight: bold;
+  text-decoration: underline;
+  text-underline-offset: 0.25em; /* pushes underline further from text for better look */
   line-height: 1.3;
   margin-bottom: 1.3em;
 }
 
 .section-desc {
-  font-size: 1.1em;
+  font-size: 1.2em;
   line-height: 1.2;
   margin-bottom: 1.2em;
 }

@@ -1,6 +1,7 @@
 <link rel="stylesheet" href="doc/assets/style.css">
 
-# Cocoa Data Unlocked
+# <span class="section-title">Cocoa Data Unlocked</span>
+
 <p class="section-desc">Explore historical price trends, inventory shifts, and futures market signals to understand where the cocoa market stands today.</p>
 
 ## <span class="section-subtitle">Prices</span>

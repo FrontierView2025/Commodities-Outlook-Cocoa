@@ -53,3 +53,9 @@ section {
   padding: 0 2vw;
   display: block !important;
 }
+
+/*Adjust graphs */
+iframe {
+  margin-bottom: 1.2em;  /* or any spacing you prefer */
+}
+

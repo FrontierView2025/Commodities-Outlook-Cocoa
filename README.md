@@ -28,9 +28,7 @@
 # <span class="section-title">In-Depth Insights</span>
 <p class="section-desc">Dive into expert analysis and strategic takeaways that translate data into action across sourcing, pricing, and operations.</p>
 
-- [Cocoa Outlook](https://app.frontierview.com/insightBite/3097/what-do-us-tariffs-mean-for-the-pharma-industry-in-latin-america)
-
-- [Cocoa Insight Bite](https://app.frontierview.com/insightBite/3091/commodities-outlook-cocoa)
+[![Cocoa Outlook](doc/assets/Cocoa-Snapshot.png)](https://app.frontierview.com/report/4609/cocoa-snapshot)
 
 # <span class="section-title">Ask Our Experts</span>
 <p class="section-desc">Need deeper insights?</p>  

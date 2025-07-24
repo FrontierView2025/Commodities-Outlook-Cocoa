@@ -1,3 +1,8 @@
+/* Fix left margin crowding on large headings and logo */
+header, .wrapper, section {
+  padding-left: 36px !important;
+}
+
 /* Make the site title larger */
 header h1 a {
   font-size: 1.8em !important;

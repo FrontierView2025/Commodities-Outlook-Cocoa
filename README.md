@@ -32,7 +32,7 @@
   <tr>
     <td>
       <a href="https://app.frontierview.com/report/4609/cocoa-snapshot">
-        <img src="doc/assets/Cocoa-Snapshot.png" alt="Cocoa Snapshot" width="250"/>
+        <img src="doc/assets/Cocoa-Snapshot.png" alt="Cocoa Snapshot" width="350"/>
       </a>
     </td>
     <td>

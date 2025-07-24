@@ -28,7 +28,20 @@
 # <span class="section-title">In-Depth Insights</span>
 <p class="section-desc">Dive into expert analysis and strategic takeaways that translate data into action across sourcing, pricing, and operations.</p>
 
-[![Cocoa Outlook](doc/assets/Cocoa-Snapshot.png)](https://app.frontierview.com/report/4609/cocoa-snapshot)
+<table>
+  <tr>
+    <td>
+      <a href="https://app.frontierview.com/report/4609/cocoa-snapshot">
+        <img src="doc/assets/Cocoa-Snapshot.png" alt="Cocoa Snapshot" width="150"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://app.frontierview.com/insightBite/3091/commodities-outlook-cocoa">
+        <img src="doc/assets/Cocoa-Insight-Bite.png" alt="Cocoa Insight Bite" width="150"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 # <span class="section-title">Ask Our Experts</span>
 <p class="section-desc">Need deeper insights?</p>  

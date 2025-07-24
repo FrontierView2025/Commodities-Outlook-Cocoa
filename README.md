@@ -37,7 +37,7 @@
     </td>
     <td>
       <a href="https://app.frontierview.com/insightBite/3091/commodities-outlook-cocoa">
-        <img src="doc/assets/Cocoa-Insight-Bite.png" alt="Cocoa Insight Bite" width="250"/>
+        <img src="doc/assets/Cocoa-Insight-Bite.png" alt="Cocoa Insight Bite" width="350"/>
       </a>
     </td>
   </tr>

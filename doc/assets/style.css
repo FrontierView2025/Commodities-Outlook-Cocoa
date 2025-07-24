@@ -1,7 +1,22 @@
 /************************************************************************************/
 /* Make the site title larger */
 header h1 a {
-  font-size: 1.8em !important;
+  font-size: 1.6em !important;
+}
+
+.sidebar h1,
+.sidebar .site-title {
+  margin-bottom: 1.5em;
+}
+.sidebar img {
+  margin-bottom: 1.5em;
+  max-width: 120px; /* Adjust as needed */
+}
+.sidebar p,
+.sidebar .description {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  line-height: 1.3;
 }
 
 /************************************************************************************/

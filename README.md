@@ -43,7 +43,49 @@
   </tr>
 </table>
 
-# <span class="section-title">Ask Our Experts</span>
-<p class="section-desc">Need deeper insights?</p>  
-<p class="section-desc">Our experts are here to help—just drop us a line!</p>
+# <span class="section-title">Need deeper insights?</span>
+<p class="section-desc">Our experts are here to support your strategic decisions. For commercial inquiries or to connect directly, feel free to reach out to your point of contact.</p>  
 
+<div style="display: flex; gap: 2em; justify-content: flex-start; margin-top: 1em; flex-wrap: wrap;">
+  <!-- Max Austin card -->
+  <div style="display: flex; align-items: center;">
+    <img
+      src="doc/assets/max-photo.jpg"
+      alt="Max Austin, Commercial Director - Europe, Middle-East & Africa"
+      style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; margin-right: 1em;"
+    >
+    <div>
+      <p style="margin: 0; font-weight: bold;">Max Austin</p>
+      <p style="margin: 0 0 .5em 0; font-size: .9em; color: #555;">Commercial Director - Europe, Middle-East & Africa</p>
+      <p style="margin: 0;">
+        <a href="mailto:max.austin@fiscalnote.com">max.austin@fiscalnote.com</a>
+      </p>
+      <p style="margin-top: .5em;">
+        <a href="/contact" style="text-decoration: none; padding: .5em 1em; background: #007acc; color: white; border-radius: 4px;">
+          Ask a Question
+        </a>
+      </p>
+    </div>
+  </div>
+
+  <!-- Rodrigo Eyzaguirre card -->
+  <div style="display: flex; align-items: center;">
+    <img
+      src="doc/assets/rodrigo-photo.jpg"
+      alt="Rodrigo Eyzaguirre, Senior Research Analyst"
+      style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; margin-right: 1em;"
+    >
+    <div>
+      <p style="margin: 0; font-weight: bold;">Rodrigo Eyzaguirre</p>
+      <p style="margin: 0 0 .5em 0; font-size: .9em; color: #555;">Senior Research Analyst</p>
+      <p style="margin: 0;">
+        <a href="mailto:rodrigo.eyzaguirre@fiscalnote.com">rodrigo.eyzaguirre@fiscalnote.com</a>
+      </p>
+      <p style="margin-top: .5em;">
+        <a href="/contact" style="text-decoration: none; padding: .5em 1em; background: #007acc; color: white; border-radius: 4px;">
+          Ask a Question
+        </a>
+      </p>
+    </div>
+  </div>
+</div>

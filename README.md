@@ -31,7 +31,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://app.frontierview.com/report/4609/cocoa-snapshot">
+      <a href="https://app.frontierview.com/report/5084/cocoa-outlook-for-2025-2026">
         <img src="doc/assets/Cocoa-Snapshot.png" alt="Cocoa Snapshot" width="350"/>
       </a>
     </td>

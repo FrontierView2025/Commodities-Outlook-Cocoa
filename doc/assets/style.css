@@ -1,8 +1,3 @@
-/* Fix left margin crowding on large headings and logo */
-header, .wrapper, section {
-  padding-left: 36px !important;
-}
-
 /* Make the site title larger */
 header h1 a {
   font-size: 1.8em !important;
@@ -64,3 +59,26 @@ iframe {
   margin-bottom: 1.2em;  /* or any spacing you prefer */
 }
 
+/* Add a clean left margin to header/title and description */
+header,
+header h1,
+header p {
+  padding-left: 36px !important;
+}
+
+/* If your logo has a class or is in the header, target it for left margin */
+header img,
+header .site-logo {
+  margin-left: 36px !important;
+}
+
+/* Add left padding to main content but avoid double-padding for graphs */
+.wrapper,
+section {
+  padding-left: 36px !important;
+}
+
+/* OPTIONAL: If you have a sidebar and want it spaced too */
+.sidebar {
+  padding-left: 24px !important;
+}

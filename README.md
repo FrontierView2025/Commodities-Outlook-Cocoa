@@ -32,12 +32,12 @@
   <tr>
     <td>
       <a href="https://app.frontierview.com/report/4609/cocoa-snapshot">
-        <img src="doc/assets/Cocoa-Snapshot.png" alt="Cocoa Snapshot" width="150"/>
+        <img src="doc/assets/Cocoa-Snapshot.png" alt="Cocoa Snapshot" width="250"/>
       </a>
     </td>
     <td>
       <a href="https://app.frontierview.com/insightBite/3091/commodities-outlook-cocoa">
-        <img src="doc/assets/Cocoa-Insight-Bite.png" alt="Cocoa Insight Bite" width="150"/>
+        <img src="doc/assets/Cocoa-Insight-Bite.png" alt="Cocoa Insight Bite" width="250"/>
       </a>
     </td>
   </tr>
